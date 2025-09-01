@@ -1,4 +1,4 @@
-# EC2-RDS-Docker-App-Deployment-Demo
+# EC2-RDS-Docker-App-Deployment-Demo#
 This project showcases hands-on experience with AWS EC2, RDS, and Docker. The Node.js application runs inside a Docker container on EC2 and connects securely to a MySQL database on RDS. Ideal for learning cloud deployment, container management, and database connectivity in real-world scenarios.
 
 
